@@ -35,7 +35,7 @@ I'm a passionate Computer Engineering student with a strong interest in building
 ## 📫 Contact
 
 - 📧 Email: [adxtya@gmail.com](mailto:adxtya@gmail.com)
-- 🧑‍💻 GitHub: [github.com/yourusername](https://github.com/Wtfachu)
+- 🧑‍💻 GitHub: [github.com/Wtfachu](https://github.com/Wtfachu)
 
 ---
 
