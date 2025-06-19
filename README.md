@@ -20,18 +20,6 @@ I'm a passionate Computer Engineering student with a strong interest in building
 
 ---
 
-## 🚀 Projects
-
-| Project Name                     | Description                                      |
-|----------------------------------|--------------------------------------------------|
-| 🎮 SA-MP Game Server Scripts     | Custom RP and DM server with scripted features  |
-| 🖥️ Personal Portfolio Website     | A stylish dark-themed portfolio using HTML/CSS  |
-| 📊 Attendance Management System | Simple CRUD app for tracking college attendance |
-
-> Check out all my work at [github.com/Wtfachu](https://github.com/Wtfachu)
-
----
-
 ## 📫 Contact
 
 - 📧 Email: [adxtya@gmail.com](mailto:adxtya@gmail.com)
