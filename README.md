@@ -26,14 +26,3 @@ I'm a passionate Computer Engineering student with a strong interest in building
 - 🧑‍💻 GitHub: [github.com/Wtfachu](https://github.com/Wtfachu)
 
 ---
-
-## 🌟 Goals for 2025
-
-- ✅ Contribute to open-source projects
-- ✅ Build a full-stack project
-- ✅ Launch my own portfolio site
-- ✅ Learn React & GitHub Actions
-
----
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
