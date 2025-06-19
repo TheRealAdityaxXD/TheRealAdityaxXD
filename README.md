@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Aditya A S
+# 👋 Hi, I'm Aditya 
 
 🎓 Computer Engineering Student | 💻 Developer | 🎨 Graphics Designer
 
