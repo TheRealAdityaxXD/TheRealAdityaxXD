@@ -1,119 +1,101 @@
-# 🎮 Aditya A S
-
+<!-- GTA STYLE BANNER -->
 <p align="center">
-  <img src="https://i.imgur.com/your-gta-banner-image.jpg" alt="Game Developer Banner" width="100%"/>
+  <img src="https://i.imgur.com/8Km9tLL.png" width="100%" alt="GTA Style Banner"/>
 </p>
 
-<h2 align="center">Multiplayer Game Systems Developer</h2>
+<h1 align="center">👑 Aditya A S</h1>
+<h3 align="center">🎮 SA-MP & MTA Multiplayer Systems Developer</h3>
 
 <p align="center">
-  SA-MP & MTA Scripting • Server Architecture • Game Logic Engineering
+  <img src="https://img.shields.io/badge/Game_Developer-111111?style=for-the-badge&logo=rockstargames&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/Multiplayer_Systems-000000?style=for-the-badge&logo=databricks&logoColor=red"/>
+  <img src="https://img.shields.io/badge/Database_Driven-1a1a1a?style=for-the-badge&logo=mysql&logoColor=orange"/>
 </p>
 
 ---
 
-## 🕹️ About Me
+## 🕶️ About Me
 
-I am a dedicated Multiplayer Game Developer specializing in building advanced systems for SA-MP and MTA servers.  
+Welcome to my development zone.
 
-My focus is on designing scalable game frameworks, optimized server logic, and immersive multiplayer experiences. I enjoy working on complex backend systems such as economies, inventory systems, roleplay mechanics, and database-driven gameplay.
+I specialize in building **high-performance multiplayer systems** for SA-MP and MTA servers.  
+From advanced roleplay frameworks to database-driven economy systems, I focus on creating scalable, optimized, and immersive gameplay experiences.
 
-I build systems that are:
-- ⚡ Optimized  
-- 🧠 Structured  
-- 🔐 Secure  
-- 📈 Scalable  
+💥 I combine backend logic, database integration, and UI design to build complete multiplayer infrastructures.
 
 ---
 
-## 🎮 Core Specialization
+# 🎮 GAME DEVELOPMENT STACK
 
-### 🟢 SA-MP (San Andreas Multiplayer)
-- Roleplay Framework Development  
-- Economy & Banking Systems  
-- Admin & Moderation Systems  
-- Player Data & MySQL Integration  
-- Anti-Cheat & Security Logic  
-- Server Performance Optimization  
-
-### 🔵 MTA (Multi Theft Auto) – Lua Scripting
-- Custom Game Modes  
-- Event-driven Gameplay Systems  
-- UI Panels & Admin Tools  
-- Database-driven Features  
-- Modular Resource Development  
+## 🧠 Languages
+<p>
+  <img src="https://img.shields.io/badge/Pawn-111111?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Lua-000000?style=for-the-badge&logo=lua&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=orange"/>
+  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=yellow"/>
+</p>
 
 ---
 
-## 🧩 Game Tech Stack
-
-### 🖥️ Languages
-![Pawn](https://img.shields.io/badge/Pawn-2C2C2C?style=for-the-badge)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### 🗄️ Database & Backend
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🛠️ Development Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+## 🚔 SA-MP Systems Development
+- Advanced Roleplay Frameworks  
+- Admin & Moderation Panels  
+- Player Data & Account Systems  
+- Banking & Economy Systems  
+- Inventory & Vehicle Systems  
+- MySQL Optimization  
+- Anti-cheat logic  
 
 ---
 
-## 🏗️ Systems I Build
-
-- 🏦 Advanced Economy Systems  
-- 🎒 Inventory & Item Systems  
-- 🚗 Vehicle Ownership Systems  
-- 🏢 Property & Business Systems  
-- 👮 Admin Control Panels  
-- 📊 Player Statistics & Logging  
-- 🔐 Secure Login & Registration Systems  
-- 🔄 Modular Game Frameworks  
+## 🚗 MTA (Multi Theft Auto) Development
+- Custom Lua Game Modes  
+- Event-driven systems  
+- UI Panels & HUD Development  
+- Admin Control Systems  
+- Database-linked gameplay  
+- Performance optimization  
 
 ---
 
-## 🚀 Featured Work
+# 💼 EXPERIENCE
 
-### 🎯 Multiplayer Roleplay Framework
-A structured and scalable framework designed for long-term server growth.
+## 🎮 Multiplayer Game Systems Developer
+- Designed scalable RP frameworks  
+- Built optimized database architectures  
+- Reduced server load through efficient scripting  
+- Developed modular, expandable systems  
 
-**Includes:**
-- Player progression system  
-- Banking & financial logic  
-- Job & faction systems  
-- Persistent database storage  
-
-**Tech:** Pawn / Lua / MySQL  
-
----
-
-## 💼 Experience
-
-### 🎮 Game Script Developer (SA-MP & MTA)
-- Designed full server-side gameplay systems  
-- Built database-integrated player systems  
-- Improved server stability & performance  
-- Developed modular and maintainable codebases  
+## 🎨 Freelance Designer & Developer
+- Designed gaming-themed UI panels  
+- Built static & responsive websites  
+- Created branding assets for communities  
 
 ---
 
-## 📫 Contact
+# 🌑 DEVELOPMENT PHILOSOPHY
+
+> Build powerful systems.  
+> Optimize everything.  
+> Make gameplay immersive.  
+
+---
+
+## 📡 CONNECT WITH ME
 
 <p align="center">
   <a href="mailto:adxtya@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=red"/>
   </a>
   <a href="https://github.com/TheRealAdityaxXD">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  🕹️ Building immersive multiplayer experiences.
+  ⚫ Multiplayer Systems Architect | SA-MP & MTA Specialist ⚫
 </p>
