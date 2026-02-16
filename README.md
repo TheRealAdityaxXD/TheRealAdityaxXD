@@ -4,21 +4,21 @@
   <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="200" height="200" style="border-radius:50%;" alt="Aditya Profile Picture"/>
 </p>
 
-<h3 align="center">🎓 Computer Engineering Student | 💻 Full-Stack Developer | 🎮 SA-MP & MTA Scripter | 🎨 UI/UX Designer</h3>
+<h3 align="center">🎓 Computer Engineering Student | 🎮 SA-MP & MTA Scripter | 🎨 UI/UX Designer</h3>
 
 <p align="center">
-  Passionate about building real-world software, multiplayer game systems, and crafting digital experiences.
+  Passionate about building real-world software and advanced multiplayer game systems.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I’m a Computer Engineering student who enjoys blending creativity with technology. From developing web applications and Discord bots to scripting advanced multiplayer systems in SA-MP and MTA, I love building projects that solve real problems.  
+I’m a Computer Engineering student who enjoys blending creativity with technology. I specialize in developing advanced multiplayer systems for SA-MP and MTA servers, along with designing clean and engaging user interfaces.  
 
-I actively explore **full-stack development, game scripting, automation tools, and UI/UX design**. My goal is to become a versatile software engineer capable of designing and deploying complete, scalable systems.
+I actively explore game scripting, backend systems, database integration, and UI/UX design. My goal is to become a highly skilled game systems developer capable of building scalable and optimized multiplayer frameworks.
 
-✨ Fun fact: I enjoy working on both backend logic and front-end design — great software should *work perfectly and look beautiful.*
+✨ Fun fact: I enjoy working on both backend logic and visual design — great systems should be powerful and well-designed.
 
 ---
 
@@ -38,7 +38,6 @@ I actively explore **full-stack development, game scripting, automation tools, a
 ### 🌐 Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Responsive UI](https://img.shields.io/badge/Responsive_UI-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -52,14 +51,14 @@ I actively explore **full-stack development, game scripting, automation tools, a
 
 ## 🎮 Game Development Specialization
 
-### 🔹 SA-MP (San Andreas Multiplayer)
+### SA-MP (San Andreas Multiplayer)
 - Advanced Roleplay Systems  
 - Admin & Moderation Systems  
 - Player Stats & Economy Systems  
 - MySQL Database Integration  
 - Server Optimization  
 
-### 🔹 MTA (Multi Theft Auto) Scripting
+### MTA (Multi Theft Auto) Scripting
 - Custom Game Modes  
 - Lua-based Gameplay Systems  
 - UI Panels & Admin Tools  
@@ -70,7 +69,7 @@ I actively explore **full-stack development, game scripting, automation tools, a
 
 ## 🌟 Featured Projects
 
-### 🔹 🎮 Multiplayer Game Systems
+### 🎮 Multiplayer Game Systems
 Custom-built systems for SA-MP & MTA servers including:
 - Roleplay frameworks  
 - Inventory systems  
@@ -81,34 +80,12 @@ Custom-built systems for SA-MP & MTA servers including:
 
 ---
 
-### 🔹 🤖 Advanced Discord Game Room Manager Bot
-Multi-server Discord bot featuring:
-- Temporary voice lobbies  
-- Queue systems  
-- Game night scheduler  
-- Leaderboards & analytics  
-
-**Tech Used:** Node.js, Discord.js, MongoDB, Chart.js  
-
----
-
-### 🔹 📊 Server Analytics Dashboard Bot
-A Discord analytics bot providing:
-- Engagement heatmaps  
-- Growth tracking  
-- Server health metrics  
-- Automated reports  
-
-**Tech Used:** JavaScript, MongoDB, Data Visualization  
-
----
-
 ## 💼 Experience
 
 ### 🧑‍💻 Freelance Developer & Designer
 - Developed static and responsive websites  
 - Designed logos, posters, and social media graphics  
-- Built custom automation tools and bots  
+- Built custom automation tools  
 
 ### 🎮 Game Script Developer (SA-MP & MTA)
 - Designed multiplayer gameplay systems  
@@ -131,13 +108,7 @@ A Discord analytics bot providing:
 
 ---
 
-## 🤝 Let’s Build Something Amazing!
+## 🤝 Let’s Build Something Great!
 
-If you're interested in collaboration, game server development, bot creation, or open-source contributions —  
+If you're interested in multiplayer game development, server systems, or collaboration —  
 **feel free to connect and reach out!**
-
----
-
-<p align="center">
-  💡 “Code. Create. Innovate.”
-</p>
