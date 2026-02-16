@@ -9,7 +9,7 @@
 
 ---
 
-<!-- ================= GLASS CARD ================= -->
+<!-- ================= ABOUT ================= -->
 <div align="center">
 <table>
 <tr>
@@ -17,9 +17,11 @@
 
 ## 🌌 About Me
 
-💡 Passionate **Computer Engineering student** building real-world digital solutions.  
-🎮 Specialized in **SA-MP multiplayer scripting**, **web development**, and **UI/UX design**.  
-🚀 I blend **logic + creativity** to build clean, scalable, and beautiful systems.
+💡 Computer Engineering student focused on building scalable software systems.  
+🎮 Specialized in multiplayer game scripting and full-stack web development.  
+🎨 Strong interest in UI/UX design and clean interface architecture.  
+
+🚀 I build systems that are efficient, maintainable, and visually refined.
 
 </td>
 </tr>
@@ -28,69 +30,79 @@
 
 ---
 
-<!-- ================= GRADIENT WAVE ================= -->
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient" />
 
-<!-- ================= TECH STACK ================= -->
-## 🛠️ Tech Stack
+# 🛠️ Technical Stack
 
-### 💻 Programming
+## 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python)
 ![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript)
+![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php)
+![Lua](https://img.shields.io/badge/Lua-0d1117?style=for-the-badge&logo=lua)
+![Pawn](https://img.shields.io/badge/Pawn-0d1117?style=for-the-badge)
 
-### 🌐 Web
+---
+
+## 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql)
+
+---
+
+## 🌐 Web Technologies
 ![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3)
 
-### 🎨 Tools
+---
+
+## 🛠️ Tools & Design
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode)
+![Sublime Text](https://img.shields.io/badge/Sublime_Text-0d1117?style=for-the-badge&logo=sublimetext)
 ![Figma](https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma)
 ![Photoshop](https://img.shields.io/badge/Photoshop-0d1117?style=for-the-badge&logo=adobephotoshop)
+![Illustrator](https://img.shields.io/badge/Illustrator-0d1117?style=for-the-badge&logo=adobeillustrator)
+![Canva](https://img.shields.io/badge/Canva-0d1117?style=for-the-badge&logo=canva)
 
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient" />
 
-<!-- ================= GITHUB STATS ================= -->
-## 📊 GitHub Stats
+# 🎮 SA-MP Development Showcase
 
-<div align="center">
+### 🧩 Multiplayer Game Systems
+- Custom gamemode development
+- Player progression systems
+- Economy & inventory systems
+- Admin & moderation tools
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TheRealAdityaxXD&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=TheRealAdityaxXD&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealAdityaxXD&layout=compact&theme=tokyonight&hide_border=true" />
+### ⚙️ Technical Implementation
+- Pawn scripting for SA-MP
+- MySQL integration for persistent data
+- Optimized server-side logic
+- Modular code architecture
 
-</div>
+### 🚀 Focus Areas
+- Performance optimization  
+- Secure database handling  
+- Scalable multiplayer structures  
+- Clean and maintainable scripting  
 
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient" />
 
-<!-- ================= PROJECTS ================= -->
-## 🚀 Featured Work
+# 🚀 Featured Work
 
-🎮 **SA-MP Game Systems**  
-🌐 **Responsive Web Applications**  
-🤖 **Advanced Discord Bots**  
-🎨 **UI-Focused Design Projects**
+🌐 Responsive Web Applications  
+🤖 Advanced Discord Bots  
+🎨 UI-Focused Design Projects  
 
 ---
 
-<!-- ================= SNAKE ================= -->
-## 🏅 Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/TheRealAdityaxXD/TheRealAdityaxXD/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
-<!-- ================= CONTACT ================= -->
 ## 📫 Connect With Me
 
 <div align="center">
@@ -103,5 +115,3 @@
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
-
-⭐ **Code with Logic • Design with Purpose • Build with Passion**
