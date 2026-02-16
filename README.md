@@ -8,7 +8,7 @@
 # 👋 Hi, I'm **Aditya A S**
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="200" height="200" style="border-radius:50%;" alt="Aditya Profile Picture"/>
+  <img src="[https://avatars.githubusercontent.com/u/00000000?v=4](https://avatars.githubusercontent.com/u/98910959?s=400&u=a51bc39b868c71ff15c9574516fbdcc5cc107b7c&v=4)" width="200" height="200" style="border-radius:50%;" alt="Aditya Profile Picture"/>
 </p>
 
 <h3 align="center">🎓 Computer Engineering Student | 🎮 SA-MP & MTA Scripter | 🎨 UI/UX Designer</h3>
