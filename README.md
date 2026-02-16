@@ -74,19 +74,6 @@ I actively explore game scripting, backend systems, database integration, and UI
 
 ---
 
-## 🌟 Featured Projects
-
-### 🎮 Multiplayer Game Systems
-Custom-built systems for SA-MP & MTA servers including:
-- Roleplay frameworks  
-- Inventory systems  
-- Vehicle systems  
-- Economy & banking systems  
-
-**Tech Used:** Pawn, Lua, MySQL, Game Logic Design  
-
----
-
 ## 💼 Experience
 
 ### 🧑‍💻 Freelance Developer & Designer
