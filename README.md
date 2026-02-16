@@ -1,101 +1,121 @@
-<!-- GTA STYLE BANNER -->
+<!-- Animated Typing Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/8Km9tLL.png" width="100%" alt="GTA Style Banner"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Aditya+A+S;SA-MP+%26+MTA+Game+Developer;Pawn+%7C+Lua+%7C+MySQL;Building+Advanced+Multiplayer+Systems" />
 </p>
 
-<h1 align="center">👑 Aditya A S</h1>
-<h3 align="center">🎮 SA-MP & MTA Multiplayer Systems Developer</h3>
+---
+
+# 👋 Hi, I'm **Aditya A S**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Game_Developer-111111?style=for-the-badge&logo=rockstargames&logoColor=yellow"/>
-  <img src="https://img.shields.io/badge/Multiplayer_Systems-000000?style=for-the-badge&logo=databricks&logoColor=red"/>
-  <img src="https://img.shields.io/badge/Database_Driven-1a1a1a?style=for-the-badge&logo=mysql&logoColor=orange"/>
+  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="200" height="200" style="border-radius:50%;" alt="Aditya Profile Picture"/>
+</p>
+
+<h3 align="center">🎓 Computer Engineering Student | 🎮 SA-MP & MTA Scripter | 🎨 UI/UX Designer</h3>
+
+<p align="center">
+  Passionate about building real-world software and advanced multiplayer game systems.
 </p>
 
 ---
 
-## 🕶️ About Me
+## 🚀 About Me
 
-Welcome to my development zone.
+I’m a Computer Engineering student who enjoys blending creativity with technology. I specialize in developing advanced multiplayer systems for SA-MP and MTA servers, along with designing clean and engaging user interfaces.  
 
-I specialize in building **high-performance multiplayer systems** for SA-MP and MTA servers.  
-From advanced roleplay frameworks to database-driven economy systems, I focus on creating scalable, optimized, and immersive gameplay experiences.
+I actively explore game scripting, backend systems, database integration, and UI/UX design. My goal is to become a highly skilled game systems developer capable of building scalable and optimized multiplayer frameworks.
 
-💥 I combine backend logic, database integration, and UI design to build complete multiplayer infrastructures.
-
----
-
-# 🎮 GAME DEVELOPMENT STACK
-
-## 🧠 Languages
-<p>
-  <img src="https://img.shields.io/badge/Pawn-111111?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Lua-000000?style=for-the-badge&logo=lua&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=orange"/>
-  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=yellow"/>
-</p>
+✨ Fun fact: I enjoy working on both backend logic and visual design — great systems should be powerful and well-designed.
 
 ---
 
-## 🚔 SA-MP Systems Development
-- Advanced Roleplay Frameworks  
-- Admin & Moderation Panels  
-- Player Data & Account Systems  
-- Banking & Economy Systems  
-- Inventory & Vehicle Systems  
-- MySQL Optimization  
-- Anti-cheat logic  
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Pawn](https://img.shields.io/badge/Pawn-2C2C2C?style=for-the-badge)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+
+### 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🌐 Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-## 🚗 MTA (Multi Theft Auto) Development
-- Custom Lua Game Modes  
-- Event-driven systems  
-- UI Panels & HUD Development  
-- Admin Control Systems  
-- Database-linked gameplay  
-- Performance optimization  
+## 🎮 Game Development Specialization
+
+### SA-MP (San Andreas Multiplayer)
+- Advanced Roleplay Systems  
+- Admin & Moderation Systems  
+- Player Stats & Economy Systems  
+- MySQL Database Integration  
+- Server Optimization  
+
+### MTA (Multi Theft Auto) Scripting
+- Custom Game Modes  
+- Lua-based Gameplay Systems  
+- UI Panels & Admin Tools  
+- Database Integration  
+- Event-driven scripting  
 
 ---
 
-# 💼 EXPERIENCE
+## 🌟 Featured Projects
 
-## 🎮 Multiplayer Game Systems Developer
-- Designed scalable RP frameworks  
-- Built optimized database architectures  
-- Reduced server load through efficient scripting  
-- Developed modular, expandable systems  
+### 🎮 Multiplayer Game Systems
+Custom-built systems for SA-MP & MTA servers including:
+- Roleplay frameworks  
+- Inventory systems  
+- Vehicle systems  
+- Economy & banking systems  
 
-## 🎨 Freelance Designer & Developer
-- Designed gaming-themed UI panels  
-- Built static & responsive websites  
-- Created branding assets for communities  
+**Tech Used:** Pawn, Lua, MySQL, Game Logic Design  
 
 ---
 
-# 🌑 DEVELOPMENT PHILOSOPHY
+## 💼 Experience
 
-> Build powerful systems.  
-> Optimize everything.  
-> Make gameplay immersive.  
+### 🧑‍💻 Freelance Developer & Designer
+- Developed static and responsive websites  
+- Designed logos, posters, and social media graphics  
+- Built custom automation tools  
+
+### 🎮 Game Script Developer (SA-MP & MTA)
+- Designed multiplayer gameplay systems  
+- Integrated MySQL databases  
+- Optimized server performance  
+- Built scalable game frameworks  
 
 ---
 
-## 📡 CONNECT WITH ME
+## 📫 Connect With Me
 
 <p align="center">
   <a href="mailto:adxtya@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=red"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/TheRealAdityaxXD">
-    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<p align="center">
-  ⚫ Multiplayer Systems Architect | SA-MP & MTA Specialist ⚫
-</p>
+## 🤝 Let’s Build Something Great!
+
+If you're interested in multiplayer game development, server systems, or collaboration —  
+**feel free to connect and reach out!**
