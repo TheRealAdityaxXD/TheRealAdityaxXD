@@ -104,6 +104,8 @@ I actively explore game scripting, backend systems, database integration, and UI
 
 ---
 
+https://counter.kuber.studio/TheRealAdityaxXD/hacker/count.svg
+
 ## 🤝 Let’s Build Something Great!
 
 If you're interested in multiplayer game development, server systems, or collaboration —  
