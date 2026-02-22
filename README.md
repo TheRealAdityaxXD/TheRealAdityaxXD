@@ -103,7 +103,7 @@ I actively explore game scripting, backend systems, database integration, and UI
 </p>
 
 ---
-![Profile views](https://counter.kuber.studio/TheRealAdityaxXD/hacker/count.svg)
+![Profile views](https://counter.kuber.studio/TheRealAdityaxXD/glassmorphism/count.svg)
 
 ## 🤝 Let’s Build Something Great!
 
